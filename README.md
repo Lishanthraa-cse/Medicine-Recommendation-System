@@ -3,9 +3,13 @@ The Medicine Recommendation System is an AI-powered platform that helps users un
 
 # Features 
 ✅ Easy-to-Use Interface - Simply input your symptoms for quick results.
+
 🤖 AI-Powered Predictions - Uses machine learning to accurately detect diseases.
+
 💊 Personalized Medicine Suggestions - Recommends the top 5 medicines based on your condition.
+
 🌐 Flask Web App - Access the system anytime, anywhere.
+
 🔒 Secure & Private - Ensures your health data remains confidential.
 
 # How It Works
